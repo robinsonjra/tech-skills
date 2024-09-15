@@ -1,0 +1,15 @@
+# Bienvenido a mi GitHub Page
+
+Hola, soy **Robinson Rodriguez**, un **TechVerse** con experiencia en una amplia gama de tecnologías de Microsoft y desarrollo web. Esta página está diseñada para compartir mis conocimientos y proyectos en diferentes áreas tecnológicas. Aquí encontrarás recursos, ejemplos y documentación sobre los temas en los que estoy involucrado.
+
+#### Licencia
+Toda documentación que se suba en este GitHub Page siempre será gratuita. Como la tecnología cambia constantemente estaré modificando los tutoriales para agregar y/o actualizar el contenido.
+
+Publicado bajo la licencia **[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)**.
+
+Usted es libre de compartir, copiar y redistribuir este Gitbook en cualquier formato, o mezclarlo y transformarlo para cualquier propósito (incluso comercialmente). Debe dar crédito apropiado y proporcionar un enlace a la licencia.
+
+Si te ha sido de utilidad o deseas que incluya algún otro tema contáctame en [linkedin].
+
+
+[linkedin]: https://www.linkedin.com/in/robinsonjra/
