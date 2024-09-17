@@ -3,7 +3,7 @@
     <img src="asset/docker.png" alt="docker" width="350px">
   </a>
 
-  ![site]
+  [![site](https://img.shields.io/badge/Site-docker.com-blue)](https://docker.com)
 
   <p align="center">
     En este README encontrara la información necesaria para comprender Docker!
@@ -274,8 +274,3 @@ Se usa un archivo **YAML** para configurar los servicios de su aplicación. Lueg
   | ```docker-compose up -d --build``` | Ejecución de un docker-compose en Modo Separado (detached) y con cambios en el Dockerfile { up -d --build } |
   | ```docker-compose down``` | Detener la ejecución de nuestro docker-compose { down } |
   | ```docker-compose run web bash``` | Ejecutar comandos dentro de un servicio { run [services] [comando] } |
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[site]: https://img.shields.io/badge/Site-https%3A%2F%2Fdocker.com%2F-blue

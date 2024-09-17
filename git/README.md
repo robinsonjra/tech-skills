@@ -3,7 +3,7 @@
     <img src="asset/git.svg" alt="Git" width="150px">
   </a>
 
-  ![site]
+  [![site](https://img.shields.io/badge/Site-git--scm.com-red)](https://git-scm.com/)
 
   <p align="center">
     En este README encontrara la información necesaria para comprender Git!
@@ -150,7 +150,3 @@ Reescritura de ramas, actualización de commits y borrado del historial.
 | --- | --- |
 | ```git rebase [branch]``` | Aplica cualquier confirmación de la rama actual por delante de la especificada.|
 | ```git reset --hard [commit]``` | Limpia el área de preparación, reescribe el árbol de trabajo desde la confirmación especificada.|
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[site]: https://img.shields.io/badge/Site-https%3A%2F%2Fgit--scm.com%2F-red
