@@ -6,7 +6,7 @@ Hola, soy **Robinson Rodriguez**, un **TechVerse** con experiencia en una amplia
 ## Tecnologías
 * **[Git](/tech-skills/git)**
 * **NET (Octubre)**
-* **Docker (Martes 01/10)**
+* **[Docker](/tech-skills/docker)**
 * **SQL Server (Martes 01/10)**
 * **Azure (Noviembre)**
 * **Azure DevOps (Noviembre)**
