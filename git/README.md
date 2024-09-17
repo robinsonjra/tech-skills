@@ -3,8 +3,6 @@
     <img src="asset/git.svg" alt="Git" width="150px">
   </a>
 
-  [![site](https://img.shields.io/badge/Site-git--scm.com-red)](https://git-scm.com/)
-
   <p align="center">
     En este README encontrara la información necesaria para comprender Git!
   </p>
