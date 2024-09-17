@@ -1,5 +1,14 @@
-# Git
-[<img src="asset/git.svg" width="150"/>](asset/git.svg)
+<div align="center">
+  <a href="https://git-scm.com/">
+    <img src="asset/git.svg" alt="Git" width="150px">
+  </a>
+
+  ![site]
+
+  <p align="center">
+    En este README encontrara la información necesaria para comprender Git!
+  </p>
+</div>
 
 ## ¿Qué es Git?
 Git es un sistema de control de versiones distribuido (DVCS) que varios desarrolladores y otros colaboradores pueden usar para trabajar en un proyecto. Proporciona una manera de trabajar con una o varias ramas locales y luego insertarlas en un repositorio remoto.
@@ -141,3 +150,7 @@ Reescritura de ramas, actualización de commits y borrado del historial.
 | --- | --- |
 | ```git rebase [branch]``` | Aplica cualquier confirmación de la rama actual por delante de la especificada.|
 | ```git reset --hard [commit]``` | Limpia el área de preparación, reescribe el árbol de trabajo desde la confirmación especificada.|
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[site]: https://img.shields.io/badge/Site-https%3A%2F%2Fgit--scm.com%2F-red

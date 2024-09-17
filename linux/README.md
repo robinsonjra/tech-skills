@@ -1,5 +1,10 @@
-# Linux
-[<img src="asset/linux.svg" width="250"/>](asset/linux.svg)
+<div align="center">
+<img src="asset/linux.svg" alt="Linux" width="250px">
+
+<p align="center">
+    En este README encontrara la información sobre comandos básicos de Linux!
+</p>
+</div>
 
 ## **Comandos básicos**
 * Listando carpetas y archivos: ```ls```

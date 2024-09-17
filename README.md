@@ -22,7 +22,7 @@ Publicado bajo la licencia **[Creative Commons Attribution 4.0](https://creative
 
 Usted es libre de compartir, copiar y redistribuir este GitHub Page en cualquier formato, o mezclarlo y transformarlo para cualquier propósito (incluso comercialmente). Debe dar crédito apropiado y proporcionar un enlace a la licencia.
 
-Si te ha sido de utilidad o deseas que incluya algún otro tema contáctame en [linkedin].
+Si te ha sido de utilidad o deseas que incluya algún otro tema contáctame en **[linkedin]**.
 
 
 [linkedin]: https://www.linkedin.com/in/robinsonjra/
