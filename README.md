@@ -4,7 +4,7 @@
 Hola, soy **Robinson Rodriguez**, un **TechVerse** con experiencia en una amplia gama de tecnologías de Microsoft y desarrollo web. Esta página está diseñada para compartir mis conocimientos y proyectos en diferentes áreas tecnológicas. Aquí encontrarás recursos, ejemplos y documentación sobre los temas en los que estoy involucrado.
 
 ## Tecnologías
-* **Git (Martes 24/09)**
+* **[Git](/git)**
 * **NET (Octubre)**
 * **Docker (Martes 01/10)**
 * **SQL Server (Martes 01/10)**
