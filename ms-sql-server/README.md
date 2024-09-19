@@ -1,7 +1,6 @@
 
 <table>
 <tr>
-<td rowspan=37><b>SQL<b></td>
 <td colspan=3 style="text-align: center;"><b>DDL (Lenguaje de definición de datos)<b></td>
 </tr>
 <tr>
