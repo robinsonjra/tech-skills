@@ -1,3 +1,17 @@
+<div align="center">
+  <a href="https://www.docker.com/">
+    <img src="asset/microsoft-sql-server-logo.svg" alt="microsoft-sql-server" width="250px">
+  </a>
+
+  <p align="center">
+    En este README encontrara la información necesaria para comprender Microsoft SQL Server!
+  </p>
+</div> 
+
+## ¿Qué es Microsoft SQL Server?
+**Microsoft SQL Server** es un sistema de gestión de bases de datos relacional (RDBMS) desarrollado por Microsoft. Está diseñado para almacenar, gestionar y recuperar grandes cantidades de datos, permitiendo realizar operaciones complejas con ellos de manera eficiente y segura.
+
+## Comandos más importantes de SQL Server
 
 <table>
 <tr>
@@ -299,3 +313,8 @@ WHERE NOT Columna1 = 2;
     </td>
 </tr>
 </table>
+
+
+## Plan de Ejecución
+
+<img src="asset/plan-de-ejecucion.jpg" alt="plan-de-ejecucion">
