@@ -1,7 +1,9 @@
 
 <table>
 <tr>
-<td colspan=3 style="text-align: center;"><b>DDL (Lenguaje de definición de datos)<b></td>
+<td colspan=3 style="text-align: center; font-weight: bold;">
+    DDL (Lenguaje de definición de datos)
+</td>
 </tr>
 <tr>
 <td><b>CREATE<b></td>
