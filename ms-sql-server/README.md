@@ -258,7 +258,7 @@ WHERE Columna1 BETWEEN 100 AND 500;
     <td>Compara un valor con cualquiera de los valores de un subconsulta.</td>
     <td>
 <pre><code>SELECT * FROM NombreTabla1
-WHERE Columna1 > ANY (SELECT Columna1 FROM NombreTabla2 WHERE Columna = 'Electrónica');
+WHERE Columna1 > ANY (SELECT Columna1 FROM NombreTabla2);
 </code></pre>
     </td>
 </tr>
