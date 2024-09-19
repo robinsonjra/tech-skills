@@ -44,10 +44,10 @@ ADD Columna4 BIT;
     </td>
 </tr>
   <tr>
-    <td colspan=3 style="text-align: center;"><b>DML (Lenguaje de manipulación de datos)<b></td>
+    <td colspan=3 style="text-align: center;"><b>DML (Lenguaje de manipulación de datos)</b></td>
   </tr>
   <tr>
-    <td><b>INSERT<b></td>
+    <td><b>INSERT</b></td>
     <td>Insertar datos.</td>
     <td>
 <pre><code>INSERT INTO NombreTabla (Columna1, Columna2, Columna3)
@@ -56,7 +56,7 @@ VALUES (1, 'Texto', '2024-09-16');
     </td>
   </tr>
   <tr>
-    <td><b>UPDATE<b></td>
+    <td><b>UPDATE</b></td>
     <td>Actualizar datos.</td>
     <td>
 <pre><code>UPDATE NombreTabla
@@ -66,7 +66,7 @@ WHERE Columna1 = 1;
     </td>
   </tr>
   <tr>
-    <td><b>DELETE<b></td>
+    <td><b>DELETE</b></td>
     <td>Eliminar datos.</td>
     <td>
 <pre><code>DELETE FROM NombreTabla
@@ -75,7 +75,7 @@ WHERE Columna1 = 1;
     </td>
   </tr>
   <tr>
-    <td><b>SELECT<b></td>
+    <td><b>SELECT</b></td>
     <td>Seleccionar datos (básico).</td>
     <td>
 <pre><code>SELECT Columna1, Columna2
@@ -84,7 +84,7 @@ FROM NombreTabla;
     </td>
   </tr>
   <tr>
-    <td colspan=3 style="text-align: center;"><b>ALIAS<b></td>
+    <td colspan=3 style="text-align: center;"><b>ALIAS</b></td>
   </tr>
   <tr>
     <td><b>AS<b></td>
