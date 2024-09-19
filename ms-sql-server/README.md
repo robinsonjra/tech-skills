@@ -1,38 +1,48 @@
 
 <table>
 <tr>
-<td colspan=3 style="text-align: center; font-weight: bold;">
-    DDL (Lenguaje de definición de datos)
-</td>
+    <td colspan=3 style="text-align: center; font-weight: bold;">
+        DDL (Lenguaje de definición de datos)
+    </td>
 </tr>
 <tr>
-<td><b>CREATE<b></td>
-<td>Crear tabla.</td>
-<td>
+    <td style="font-weight: bold;">
+        CREATE
+    </td>
+    <td>Crear tabla.</td>
+    <td>
 <pre><code>CREATE TABLE NombreTabla (
 Columna1 INT PRIMARY KEY,
 Columna2 VARCHAR(50),
 Columna3 DATE
 );</code></pre>
-</td>
+    </td>
 </tr>
-  <tr>
-    <td><b>ALTER<b></td>
-    <td>Modificar tabla (añadir columna).</td>
+<tr>
+    <td style="font-weight: bold;">
+        ALTER
+    </td>
+    <td>
+        Modificar tabla (añadir columna).
+    </td>
     <td>
 <pre><code>ALTER TABLE NombreTabla
 ADD Columna4 BIT;
 </code></pre>
     </td>
-  </tr>
-  <tr>
-    <td><b>DROP<b></td>
-    <td>Eliminar tabla.</td>
+</tr>
+<tr>
+    <td style="font-weight: bold;">
+        DROP
+    </td>
+    <td>
+        Eliminar tabla.
+    </td>
     <td>
 <pre><code>DROP TABLE NombreTabla;
 </code></pre>
     </td>
-  </tr>
+</tr>
   <tr>
     <td colspan=3 style="text-align: center;"><b>DML (Lenguaje de manipulación de datos)<b></td>
   </tr>
