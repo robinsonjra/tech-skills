@@ -1,20 +1,20 @@
 
 <table>
-  <tr>
-    <td rowspan=37><b>SQL<b></td>
-    <td colspan=3 style="text-align: center;"><b>DDL (Lenguaje de definición de datos)<b></td>
-  </tr>
-  <tr>
-    <td><b>CREATE<b></td>
-    <td>Crear tabla.</td>
-    <td>
+<tr>
+<td rowspan=37><b>SQL<b></td>
+<td colspan=3 style="text-align: center;"><b>DDL (Lenguaje de definición de datos)<b></td>
+</tr>
+<tr>
+<td><b>CREATE<b></td>
+<td>Crear tabla.</td>
+<td>
 <pre><code>CREATE TABLE NombreTabla (
-    Columna1 INT PRIMARY KEY,
-    Columna2 VARCHAR(50),
-    Columna3 DATE
+Columna1 INT PRIMARY KEY,
+Columna2 VARCHAR(50),
+Columna3 DATE
 );</code></pre>
-    </td>
-  </tr>
+</td>
+</tr>
   <tr>
     <td><b>ALTER<b></td>
     <td>Modificar tabla (añadir columna).</td>
