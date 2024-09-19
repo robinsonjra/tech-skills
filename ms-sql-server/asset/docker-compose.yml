@@ -1,0 +1,25 @@
+version: '3'
+
+services:  
+  mssql_stable:
+    container_name: developer
+    image: mssql:2022
+    ports:
+      - 2051:1433
+    volumes:
+      - ./database/backups:/var/backups
+      - ./database/opt:/var/opt/mssql/data
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Dev2022++
+    networks:
+      mssql_net:
+        ipv4_address: 172.51.0.4
+
+networks:
+  mssql_net:
+    name: mssql
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.51.0.0/16

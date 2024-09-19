@@ -318,3 +318,9 @@ WHERE NOT Columna1 = 2;
 ## Plan de Ejecución
 
 <img src="asset/plan-de-ejecucion.jpg" alt="plan-de-ejecucion">
+
+
+## Recursos
+
+* Si quieres profundizar mas te dejo un PDF de ADDC: [Manual Sentencias 2012](asset/Manual-2012-Sentencias-SQL.pdf).
+* Si ya conoces docker te dejo un [Docker Compose](asset/docker-compose.yml).
